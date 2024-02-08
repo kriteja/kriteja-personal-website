@@ -1,0 +1,4 @@
+baseURL = 'https://kriteja.github.io/'
+languageCode = 'en-us'
+title = 'Krishna'
+theme="hermit"
