@@ -1,1 +1,1 @@
-# kriteja.hugo
+# hugo_codebase
